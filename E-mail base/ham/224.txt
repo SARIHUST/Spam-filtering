@@ -1,0 +1,10 @@
+
+
+>Sfio has more facilities, e.g. you can define error handlers for
+>streams, and can make use of operating system facilities like memory
+>mapped files.
+
+Sfio is also 7000 (10000 if you count stdio compatibility) lines of
+code, whereas bio is about 700.  Sfio is not 10 times faster or 10
+times more useful.  You're comparing apples to kumquats.
+

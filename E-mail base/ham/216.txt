@@ -1,0 +1,15 @@
+
+
+Hi 9'ers,
+ my question is of the pc installation. We've
+always used the original 1.44 floppy. In
+"Configuring for a PC", it is discussed a way
+to copy the boot files to a disk to use as the
+boot disk. DOS doesn't like the AUX directory
+in /386/bin. Even if the files are zipped, then
+expanded into DOS, it refuses to create or 
+maintain this directory. How have others got 
+around this? Similarly, one may copy the image 
+(pcdisk) to a floppy, but of what utility is this?
+  Thanks in advance, --Jerry
+

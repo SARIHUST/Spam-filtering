@@ -1,0 +1,14 @@
+
+
+| As far as I'm concerned this is only a minor irritant -- Caps Lock is
+| pointless anyway in these days of OPERATING SYSTEMS THAT DON'T REQUIRE
+| YOU TO SHOUT -- but I wondered if anyone else had noticed this bug-ette
+| and/or had a fix for it?
+
+It doesn't show up here, running MIT X11.  
+
+In terms of shouting, if you use MODULA-3, encrusted as it is with
+upper case keywords, caps-lock is about the only alternative (and a
+poor one at that) to a context sensitive editor like emacs.
+
+

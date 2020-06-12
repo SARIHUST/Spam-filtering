@@ -1,0 +1,6 @@
+
+
+
+Er, rather than porting existing stuff (GNU, etc) shouldn't
+you be writing NEW programs with the plan9 model?
+

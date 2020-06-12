@@ -1,0 +1,33 @@
+
+    
+    In the good old days, copyright notices meant something.
+    The latest instance of their devaluation is Matty's posting
+    in a public place of a number of copyrighted fonts from
+    the Plan 9 distribution (itself a violation of the copyright)
+    without reproducing the notice (which would be our
+    request to anyone who asked to copy them).
+    
+    For those interested in maintaining the principle of
+    letting artists maintain ownership of their work, the
+    fonts Matty distributed should be stored with the
+    following notice:
+    
+    The fonts in this directory are based on fonts
+    Copyright (c) 1985 Bigelow & Holmes Inc.
+    
+    This text is (with a substitution for (c)) the contents of
+    /lib/font/bit/(pelm,lucm)/NOTICE
+    
+    -rob
+
+Rob is of course right (he wins this week's award for the Most Public
+Slap on the Wrist).  Ftp.cs.su.oz.au:/matty/unicode will be unavailable
+until I sort things out.
+
+For the record I do believe in copyright, the oversight has arisen from
+the ad hoc way this distribution has grown rather than any malicious
+or subversive intent on my part to deny authorship of the fonts.
+
+					Matty.
+
+

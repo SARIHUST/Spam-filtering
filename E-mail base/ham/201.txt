@@ -1,0 +1,16 @@
+
+
+I don't know how to shut down a file server or CPU
+server, but to safely shut down a terminal, type "^T^Tr".
+The connection to the file server is not cached, so
+there is no need to sync.
+
+The equivalent of ^C is delete.  (Long ago, Delete was
+the standard interrupt character on Unix too, but
+Berkeley, in their infinite wisdom, decided to switch
+to ^C.)
+
+The equivalent of ^S and ^Q is the scroll/noscroll
+item on the middle mouse button menu, together with
+the scrollbar.
+

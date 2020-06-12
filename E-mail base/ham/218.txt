@@ -1,0 +1,25 @@
+
+
+The ape library and the associated "pcc" compiler have worked very well
+for me for porting a variety of unix programs to plan 9.
+
+The most annoying aspect of the whole process is not porting C code,
+but porting makefiles and the associated shell scripts.
+
+To this end, I have ported the almquist /bin/sh from netbsd, and gnu
+make.  Using these tools I have been able to configure and build a
+variety* of gnu software right out of the box.  I've also ported the
+pbmplus suite of bitmap tools, although that required some small
+source changes.
+
+In the process I've found a few bugs in the ape library; most notably
+the wait() function does not return exit status correctly.  What I
+think happened is the kernel recently started putting the string
+"<program>:" into the exit status, and the ape library has not been
+updated to know this.
+
+I eventually (september or october) will make all this stuff
+available to others, but right now my time is limited.
+
+	Mike
+

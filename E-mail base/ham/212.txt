@@ -1,0 +1,14 @@
+
+    
+    I don't mean to stir a hornets nest here, but it's my impression that
+    there's no copyright protection for screen-bitmap fonts. Of course,
+    that doesn't mean that omitting a distribution notice in this case is
+    the Right Thing to do...
+
+I was under the impression that this is the case in the USA --
+screen-bitmap fonts are not protected -- but in Great Britian it's
+a different matter.  I'm not sure of their status in Australia.
+Adding a NOTICE is definitely a Good Idea(TM) and I have written to
+Mr Charles A. Bigelow asking for permission to distribute the fonts.
+
+					Matty.

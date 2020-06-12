@@ -1,0 +1,10 @@
+
+
+Hi fans,
+has anyone ported (or heard of) a X11R5 server running on a Plan 9 system
+for connectivity to out UNIX boxes ?
+
+Thomas
+
+
+

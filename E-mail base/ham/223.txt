@@ -1,0 +1,12 @@
+
+
+>Er, rather than porting existing stuff (GNU, etc) shouldn't
+>you be writing NEW programs with the plan9 model?
+
+I think the only place where the "plan 9 model" is dramatically
+different is in window system software.
+
+There's a large amount of unix software that fits plan 9 just
+fine, and it would be awfully stupid to reinvent wheels when
+there's genuinely new things to work on instead...
+

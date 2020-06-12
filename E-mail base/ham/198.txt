@@ -1,0 +1,27 @@
+
+
+Greetings all.  This is to verify your subscription to the plan9-fans
+list.   The charter members (those who signed up on the first day)
+are (in order)
+
+	"Scott Schwartz" <schwartz@cs.psu.edu>
+	"Chuck Rendleman" <chuckr@bigbird.llnl.gov>
+	"Michael John Haertel" <mike@cs.uoregon.edu>
+	"Neil Weisenfeld" <weisen@alw.nih.gov>
+	"Ozan S. Yigit" <oz@sis.yorku.ca>
+	"Sanjeev Y. Dharap" <sanjeev@cs.psu.edu>
+	Eric Krohn <krohn@bae.bellcore.com>
+	"DaviD W. Sanderson" <dws@ssec.wisc.edu>
+	"Dennis Colarelli" <djc@niwot.scd.ucar.EDU>
+	Tony Sloane <tony@cs.colorado.edu>
+	Bob Gibson <rjg@sco.COM>
+	Chris Siebenmann <cks@hawkwind.utcs.toronto.edu>
+	"Roger Peppe" <rog@ohm.york.ac.uk>
+	"Chet Ramey" <chet@po.cwru.edu>
+	"Tim Tsai" <m-it2691@cs.nyu.edu>
+	Noel Hunt <noel@es.su.oz.au>
+
+Due to rdist and local politics, it takes a day before changes to the
+list take effect.
+
+

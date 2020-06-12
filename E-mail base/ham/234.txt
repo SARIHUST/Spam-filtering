@@ -1,0 +1,11 @@
+
+
+Hi 9`ers,
+ could someone please expound on what is required to bring a machine
+(sparc2, same as the fs) up as a cpu server the first time, 
+other than changing the bootf, fs and auth variables in /lib/ndb/local
+and loading 9sscpu? The system is up and running as term and fs, but 
+what more is required to change the term to a cpu server? As well as 
+detail what is required to then make this machine the authentication 
+server, please?   Thanks in advance, --Jerry
+

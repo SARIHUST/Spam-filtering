@@ -1,0 +1,25 @@
+
+
+Although fonts themselves cannot be protected, it's likely
+that the actual data file representing a particular instance
+of a font is protectible.
+
+For example, I dare you to redistribute one of Adobe's Type I
+data files.
+
+Consequently, the interesting questions regarding the Plan 9
+fonts are:
+
+(1) How did Bell Labs derive the bitmap data?  If they digitized
+    the fonts themselves from, say, blown up photographs, they
+    are on safe legal ground.  Likewise if they constructed the
+    fonts by hand with a bitmap editor.  (Given that these fonts
+    look awfully reminescent of the "blit" fonts, I suspect that
+    they date to the early 1980's and were constructed by hand.)
+
+(2) How does Bell Labs feel about us using their bitmap data
+    files?
+
+The answer to #2 seems to be "Fine, so long as the copyright
+notice is preserved on all copies."
+

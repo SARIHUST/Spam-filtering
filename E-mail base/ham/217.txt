@@ -1,0 +1,17 @@
+
+
+
+Is there someone, somewhere who has ported a U*ix program to Plan 9.
+I'm sure there is, so I wonder where I can get more information about
+these ports.
+
+We haven't got our system running yet - we'll try on wednesday - so I
+don't really know if it's even interesting to port any programs! 
+
+(Wouldn't it be nice to have Emacs on your system... :-)
+
+Actually I had in mind something for managing mail and News.
+Impossible?
+
+Regards,
+Homann

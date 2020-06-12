@@ -1,0 +1,13 @@
+
+ For those areas where there IS a definite hole (e.g.  news reader),
+>writing new applications seems a much better idea...
+
+I entirely agree with this: I detest all newsreaders: they are cramped,
+monolithic pieces of cybercrud that make vms utilities look simple and
+elegant.
+
+There needs to be a better way to do news, both on an average un*x and
+on plan 9.
+
+oz
+

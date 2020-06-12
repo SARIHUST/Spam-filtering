@@ -1,0 +1,16 @@
+
+Okay, I've got some of the distribution problems sorted out.
+9term, libXg, libframe, and libtext are now again available from
+ftp.cs.su.oz.au:/matty/unicode.  I am waiting for a decision on the
+font archive so the fonts are unavailable at the moment.  9term will
+function with normal X fonts, however.
+
+9x needs some tidying up so that should be back soon as well.
+
+Thanks for everyone's interest and patience and my apologies to
+those who've tried to ftp in the last half a week or so and have been
+unable to.
+
+					Matty.
+
+

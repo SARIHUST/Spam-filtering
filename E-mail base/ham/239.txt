@@ -1,0 +1,10 @@
+
+
+I was once given to understand that the HP "snake" was the next target
+architecture for a plan 9 port, but it isn't listed in the current doc.
+Is that port in progress, or was it never done?  Just curious.
+
+Thanks,
+
+Arnold
+

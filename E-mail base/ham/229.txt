@@ -1,0 +1,13 @@
+
+
+Unthinkingly, I wrote:
+
+>I think the only place where the "plan 9 model" is dramatically
+>different is in window system software.
+
+I should clarify this:  In Unix, most programs take standard input
+and produce standard output.  The same is true in Plan 9.  So when
+I said the plan 9 model is mostly the same, I was thinking of how
+you run programs, not how you write them.  The incompatibilities
+are a bit more dramatic from a programmer's point of view.
+

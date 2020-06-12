@@ -1,0 +1,17 @@
+
+
+Is Plan 9 primarily intended as an operating system to do research on, or into?
+
+Many of the postings on comp.os.research which run 'Plan 9 should have 
+interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
+which exists for the purpose of investigating certain operating system ideas.
+The impression I have from the Plan 9 literature so far seems to indicate that
+the emphasis is more on creating a usable system, given certain ideas about
+operating system design, namespaces and so on. I'm not asking whether Plan 9
+is a pure research system or a pure production system - just which is considered
+more important.
+
+Geoff.
+
+
+

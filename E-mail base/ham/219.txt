@@ -1,0 +1,22 @@
+
+
+David Korn and Kiem-Phong Vo have just released a new version of sfio,
+the 'Safe Fast I/O' package, which is designed as a replacement for
+stdio.
+
+The paper 'How to use the Plan 9 C Compiler' tells us "Bio is a small
+and very efficient, particularly for buffer-at-a-time or line-at-a-time
+I/O. Even for character-at-a-time I/O, however, it is significantly
+faster than the Standard I/O library"
+
+Before I do it, has anyone else measured these two on similar hardware
+(e.g.  Sun Sparc-Station 2, running SunOS)? The paper with sfio gives
+some figures for Andrew Humes FIO package and some existing stdio
+packages.
+
+Sfio has more facilities, e.g. you can define error handlers for
+streams, and can make use of operating system facilities like memory
+mapped files.
+
+Icarus
+

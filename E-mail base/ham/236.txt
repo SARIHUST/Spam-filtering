@@ -1,0 +1,16 @@
+
+
+>> Does anyone know what my chances of obtaining Plan 9 are as an
+>> individual?  Would it be worth writing to Bell Labs?
+>> 
+>> Failing that, maybe I'll have to find a university who'd take me on a
+>> as a (very) part time assistant OS hacker...
+>> 
+>> Tim.
+
+it might become possible for individuals to acquire the system.
+steps are being taken in that direction.  the decision depends
+on various factors that are not influencable by outside campaigns
+and there is no promise of a successful conclusion, however.
+
+

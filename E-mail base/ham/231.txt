@@ -1,0 +1,16 @@
+
+
+Not sure which of these lists (9fans or sam-fans) is more appropriate, but
+here goes:
+
+Running 9term or samterm under Openwindows (sparcstation elc; type 5
+keyboard; openwindows 2; sunos 4.1.1) I find that the Caps Lock key is
+interpreted as Shift Lock -- i.e. 123 comes out as !"# and so on. It looks
+like a libXg bug to me...
+
+As far as I'm concerned this is only a minor irritant -- Caps Lock is
+pointless anyway in these days of OPERATING SYSTEMS THAT DON'T REQUIRE
+YOU TO SHOUT -- but I wondered if anyone else had noticed this bug-ette
+and/or had a fix for it?
+
+pete
