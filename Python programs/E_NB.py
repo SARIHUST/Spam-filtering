@@ -66,7 +66,7 @@ def Mail_classify():
     for i in range(1, 292):
         ham_mail = open('C:\\Users\\Wanghanhui\\Desktop\\AI论文程序及数据\\数据集\\email\\ham\\\\%d.txt' % i, 'r').read()
         tmp_word_list = word_seg(ham_mail)      #分词步骤，为每一封邮件划分词汇表
-        doc_list.append(tmp_word_list)          #doc_list最终组织结构为：[[ham1词汇表], [spam1词汇表], ..., [spam25词汇表]]
+        doc_list.append(tmp_word_list)          #doc_list最终组织结构为：[[ham1词汇表], ..., [spam1词汇表], ..., [spam258词汇表]]
         class_list.append(0)                    #ham对应标签为0
     for i in range(1, 358):
         spam_mail = open('C:\\Users\\Wanghanhui\\Desktop\\AI论文程序及数据\\数据集\\email\\spam\\%d.txt' % i, 'r').read()
