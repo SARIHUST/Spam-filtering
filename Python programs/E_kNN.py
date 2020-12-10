@@ -124,19 +124,3 @@ if __name__ == '__main__':
     print('A: %d, B: %d, C: %d, D: %d' % (A, B, C, D))
     print('A: %.2f%%, B: %.2f%%, C: %.2f%%, D: %.2f%%' % (A / (rate * times), B / (rate * times), C / (rate * times), D / (rate * times)))
     #Mail_classify()
-
-'''
-Input:test_vec,Train_matrix,Train_class
-    创建用来存储相似度和类别的空列表similarity
-    for i in 0到Train_matrix的行向量个数
-        通过前述公式计算test_vec和Train_matrix[i]的相似度sim
-        将sim和Train_class[i]组成label
-        将label加入similarity
-    按照sim值从大到小排列similarity
-    统计similarity列表中前k个label的标签值为t
-    if t超过阈值λ
-        class_type = 1
-    else
-        class_type = 0
-Output:class_type
-'''
